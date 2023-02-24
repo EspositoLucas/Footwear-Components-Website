@@ -38,9 +38,6 @@
     ================================================== -->
     <link rel="stylesheet" type="text/css"  href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
-
-    <!-- Google Fonts
-    ================================================== -->
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 
     <script type="text/javascript" src="js/modernizr.custom.js"></script>
@@ -137,6 +134,7 @@
                 <li><a href="#tf-intro" class="scroll">Acerca de</a></li>
                 <li><a href="#tf-features" class="scroll">Productos</a></li>
                 <li><a href="#tf-intro2" class="scroll">Pedido</a></li> 
+                <li><a href="https://compraonlinefondostotys.000webhostapp.com/" class="scroll">Compra</a></li>
                 <li><a href="#tf-works" class="scroll">Galer&iacute;a</a></li>
                 <li><a href="#tf-contact" class="scroll">Contacto</a></li>
               </ul>
